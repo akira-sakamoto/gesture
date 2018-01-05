@@ -1,0 +1,12 @@
+/**/
+
+img {
+  position: absolute;
+  margin: -75px 0 0 -75px;
+  width: 150px;
+  height: 150px;
+}
+
+.dragging {
+  opacity: 0.6;
+}
